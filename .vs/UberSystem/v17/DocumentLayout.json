@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\repo\\customrepo\\contract\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\repo\\customrepo\\contract\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\dtos\\auth\\authlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\dtos\\auth\\authlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\repo\\customrepo\\implementation\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\repo\\customrepo\\implementation\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\iunitofwork\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\iunitofwork\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\iunitofwork\\contract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\iunitofwork\\contract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\repo\\genericrepo\\contract\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\repo\\genericrepo\\contract\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\ubersystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\ubersystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\data\\app_database_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\data\\app_database_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\models\\userr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\models\\userr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|c:\\users\\zeyad.ali\\desktop\\codes.docs\\ubersystem\\ubersystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA94045-AAD3-4A12-8B12-E0AF45D042B8}|UberSystem\\UberSystem.csproj|solutionrelative:ubersystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\DTOs\\Auth\\AuthLoginDTO.cs",
+              "RelativeDocumentMoniker": "UberSystem\\DTOs\\Auth\\AuthLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\DTOs\\Auth\\AuthLoginDTO.cs",
+              "RelativeToolTip": "UberSystem\\DTOs\\Auth\\AuthLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:19:38.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Repo\\CustomRepo\\Implementation\\AuthRepo.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Repo\\CustomRepo\\Implementation\\AuthRepo.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Repo\\CustomRepo\\Implementation\\AuthRepo.cs",
+              "RelativeToolTip": "UberSystem\\Repo\\CustomRepo\\Implementation\\AuthRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:16:08.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Repo\\CustomRepo\\Contract\\IAuthRepo.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Repo\\CustomRepo\\Contract\\IAuthRepo.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Repo\\CustomRepo\\Contract\\IAuthRepo.cs",
+              "RelativeToolTip": "UberSystem\\Repo\\CustomRepo\\Contract\\IAuthRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:15:55.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\IUnitOfWork\\Implementation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "UberSystem\\IUnitOfWork\\Implementation\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\IUnitOfWork\\Implementation\\UnitOfWork.cs",
+              "RelativeToolTip": "UberSystem\\IUnitOfWork\\Implementation\\UnitOfWork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:06:05.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Repo\\GenericRepo\\Contract\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Repo\\GenericRepo\\Contract\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Repo\\GenericRepo\\Contract\\IGenericRepo.cs",
+              "RelativeToolTip": "UberSystem\\Repo\\GenericRepo\\Contract\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:02:34.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\IUnitOfWork\\Contract\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UberSystem\\IUnitOfWork\\Contract\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\IUnitOfWork\\Contract\\IUnitOfWork.cs",
+              "RelativeToolTip": "UberSystem\\IUnitOfWork\\Contract\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:02:32.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UberSystem",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\UberSystem.csproj",
+              "RelativeDocumentMoniker": "UberSystem\\UberSystem.csproj",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\UberSystem.csproj",
+              "RelativeToolTip": "UberSystem\\UberSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-14T12:02:30.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Program.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Program.cs",
+              "RelativeToolTip": "UberSystem\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:06:29.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "UberSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\appsettings.json",
+              "RelativeToolTip": "UberSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-14T11:05:14.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App_Database_Context.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Data\\App_Database_Context.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Data\\App_Database_Context.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Data\\App_Database_Context.cs",
+              "RelativeToolTip": "UberSystem\\Data\\App_Database_Context.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:01:22.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Models\\Rating.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Models\\Rating.cs",
+              "RelativeToolTip": "UberSystem\\Models\\Rating.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:23:01.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Models\\Payment.cs",
+              "RelativeToolTip": "UberSystem\\Models\\Payment.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:18:10.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Models\\Ride.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Models\\Ride.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Models\\Ride.cs",
+              "RelativeToolTip": "UberSystem\\Models\\Ride.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wCUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:08:59.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Models\\Vehicle.cs",
+              "RelativeToolTip": "UberSystem\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:00:17.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Userr.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Models\\Userr.cs",
+              "RelativeDocumentMoniker": "UberSystem\\Models\\Userr.cs",
+              "ToolTip": "C:\\Users\\Zeyad.Ali\\Desktop\\Codes.Docs\\UberSystem\\UberSystem\\Models\\Userr.cs",
+              "RelativeToolTip": "UberSystem\\Models\\Userr.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:57:21.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
